@@ -21,7 +21,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Configure the Google API key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDUn2glMnA3eaRRdZLGo_l9-TYMY3Fx9-8"
+os.environ["GOOGLE_API_KEY"] = "api-key-here"
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # Initialize the LLM
