@@ -34,9 +34,9 @@ Agentic RAG System is a Streamlit application designed to assist users in queryi
 
 ## Usage
 
-1. Run the Streamlit application:
+1. Run the Streamlit lication:
     ```sh
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 2. Open your web browser and navigate to the URL provided by Streamlit, typically `http://localhost:8501`.
@@ -47,7 +47,7 @@ Agentic RAG System is a Streamlit application designed to assist users in queryi
 
 ## Code Overview
 
-- `app.py`: Main script containing the Streamlit application.
+- `main.py`: Main script containing the Streamlit mainlication.
 - Functions:
   - `create_agent(llm, tools)`: Creates an agent with the provided language model and tools.
   - `process_pdf(uploaded_file)`: Processes a PDF file and extracts its text content.
