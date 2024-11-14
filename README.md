@@ -76,5 +76,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 For any questions or issues, please open an issue in this repository or contact at muditgaur1009@gmail.com.
 
 ---
-
-Feel free to customize the README further to suit your preferences.
