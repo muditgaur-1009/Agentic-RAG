@@ -1,6 +1,3 @@
-Certainly! Here is a README for your code that you can use for your GitHub repository:
-
----
 
 # Agentic RAG System
 
